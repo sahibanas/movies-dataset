@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renotalo/gdp-dashboard.git"
+    "url": "git+https://github.com/sahibanas/movies-dataset.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/renotalo/gdp-dashboard/issues"
+    "url": "https://github.com/sahibanas/movies-dataset/issues"
   },
-  "homepage": "https://github.com/renotalo/gdp-dashboard#readme"
+  "homepage": "https://github.com/sahibanas/movies-dataset#readme"
 }
