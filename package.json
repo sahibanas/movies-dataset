@@ -1,0 +1,20 @@
+{
+  "name": "autoCommit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "git config --global user.email 'karyopero@outlook.com' && git config --global user.name 'karyopero' && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renotalo/gdp-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renotalo/gdp-dashboard/issues"
+  },
+  "homepage": "https://github.com/renotalo/gdp-dashboard#readme"
+}
